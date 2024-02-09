@@ -1,15 +1,18 @@
 ### Hi there 👋
 
-I am an expert in cybersecurity and secure web development. My focus is on ensuring the security of web applications through the implementation of robust practices and techniques. With skills in risk analysis and data protection, I am committed to creating secure and effective solutions that safeguard organizations' confidential information. My focus is on technical excellence and delivering high-quality solutions that exceed expectations. My ability to work effectively in cross-functional teams allows me to collaborate closely with designers and development teams to ensure a cohesive and optimized user experience.
+I am an expert in cybersecurity and secure web development, with a focus on DevSecOps. My goal is to ensure the security of web applications through robust practices and techniques. With skills in risk analysis and data protection, I am committed to creating secure solutions that safeguard organizations' confidential information. I prioritize technical excellence and delivering high-quality solutions that exceed expectations. My ability to work in multidisciplinary teams allows me to collaborate closely with designers and development teams to ensure an optimal user experience.
 
 --------------------------------------------------------------------------------------
 
 
 #### 👨‍💻 Technical Skills
-- Lenguajes de Programación: JavaScript, HTML, CSS, Python
-- Frameworks: React ⚛️
-- Bases de Datos: MongoDB 🍃, MySQL 🐬, PostgreSQL 🐘
-- Herramientas de Desarrollo: Git 🐱‍💻, VS Code 🟦
+Programming Languages: Html, CSS, JavaScript, Python 🐍
+Frameworks: React ⚛️
+Databases: MySQL 🐬
+Security: OWASP Top 10, Postman 🛡️
+Monitoring:  Grafana 📈
+Containers: Docker 🐳
+Configuration Management: Git 🐱‍💻
 
 --------------------------------------------------------------------------------------
 
