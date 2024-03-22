@@ -6,7 +6,7 @@ I am an expert in cybersecurity and secure web development, with a focus on DevS
 
 
 #### 👨‍💻 Technical Skills
-- Programming Languages: Html, CSS, JavaScript, Python 🐍, C++
+- Programming Languages: Html, CSS, JavaScript, Python 🐍, C➕➕
 - Frameworks: React ⚛️
 - Databases: MySQL 🐬
 - Security: OWASP Top 10, Postman 🛡️
