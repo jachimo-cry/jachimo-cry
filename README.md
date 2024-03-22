@@ -38,6 +38,5 @@ I am an expert in cybersecurity and secure web development, with a focus on DevS
 #### 🌎 Languages
 - Español (Nativo)
 - Inglés (Fluido)
-- Francés (Básico)
 
 ¡No dudes en echar un vistazo a mis proyectos y contáctame si quieres colaborar en algo interesante! 😊
